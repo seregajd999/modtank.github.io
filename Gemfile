@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+Ruby RUBY_VERSION
+
 gem 'jekyll'
 
 group :jekyll_plugins do
